@@ -1,0 +1,57 @@
+INDIVIDUAL SPREAD FOOTINGS		 211
+
+
+' a d
+I 1 " A " 2A . x
+D =Dm + (D “Dm>- 1 2 ...(12.14a)
+._A p
+d’ = D’ - (c + o) ...(12.14b)
+b,:b+2.ﬂ.d .5. ‘ ...(12.14c)
+(A -a) ,
+For Type (c), Fig. 12.1 (c) gives,
+= (D ‘sz I
+I, tan [3 2. (A _a) ...(12.15a)
+For Type (b), Fig. 12.1 (b) gives,
+_ 2(D -Dm2
+tan [3 - (A _ a _D) ...(12.15b)
+
+
+
+The calculated value of Tv must not exceed the allowable stress (Ta), as shear reinforcement
+is just not provided in individual footings for reasons of economy, the same as in solid slabs.
+The allowable stress in concrete solid slabs Ta is given by,
+
+ Ta = k . Tc 				(12.16)
+
+Tc is given by Table 19 of the Code depending on the steel area provided for moment at the
+critical section 2-2 (the minimum value of Tc is assumed for pt<=0.15 in Table 19 and
+k = 1.0 for D >= 30 cm
+= 1.1 for D = 25 cm
+= 1.2 for D=20cm
+= 1.25 for D = 17.5 cm
+= 1.30 for D <= 15.0 cm.
+
+Normally, depth of footing given for perimeter shear (Chart 12.1) is more than adequate
+to satisfy the requirements of beam shear. But when steel type Fe 415 and Fe 500 are used as
+reinforcement beam shear may govern the depth of footing. For stepped footings, additional
+checks for moment and beam shear are required to be made for the portion of the footing of
+depth Dm (Fig. 12.1 d). When section 1’ - 1’ is the critical section for moment and section
+2’ — 2’ is that for beam Shear (Fig. 12.1 d), expreSsions for moment and shear are given as,
+
+
+  M1’—1’=p.B.£é:BiL ...(12.17)
+Sz'-2'=p . BF‘ig—a’z-dm] ...(12.18)
+
+
+For ﬁnding steel area, Chart 4.1 (with y = 0), may be used, as the concrete compression zone
+is of a rectangular shape of width equal to B. Shear stress Tv is given by,
+
+T __ YE _ 1.5 82 - 2
+v - bd - B . dm ‘ _
+
+and it must not exceed Ta given by equation (12. 16), failing which depth Dm should be suitably
+increased. Normally Dm = 0.30 D to 0.50 D is kept in stepped footings and perimeter shear
+stress can be checked to be safe by using ﬁrst principles.
+
+...(12.19)
+

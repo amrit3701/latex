@@ -1,0 +1,50 @@
+﻿12
+
+Individual Spread Footings
+
+ 
+
+12.1. Introduction
+
+Clause 34 of the Code gives the provisions governing the design of reinforced concrete
+footings. These provisions are similar to those given by the ACI code. The design of footings
+in accordance with IS : 456—2000 differs from that by the old code in the following aspects.
+
+(i) Perimeter shear stress must not exceed the allowable value. This aspect was not
+given in the old code. But it is similar to the familiar concept of punching shear
+stress.
+
+(ii) Bond-stress-criterion was given in the old code, but it is omitted in the new code.
+Instead, development length of footing bars is required to be checked at the sections
+where bending moment is critical.
+
+(iii) 25% excess pressure on edge of footing was allowed by the old code when a footing
+ is eccentrically loaded. This concession is withdrawn by the new Code, thereby
+adding to the cost of eccentrically loaded footings.
+
+The Code requires footings to be designed for the following limit states.
+
+(a) Perimeter shear
+
+(b) Bending moment
+
+(c) Beam shear
+
+(d) Development length of footing bars.
+(e) Development length of column bars.
+
+12.2. Types of Individual Footings
+
+Individual spread footings can be either square or rectangular in plan, the area of a
+rectangular footing with sides A and B being given by, 
+
+(A x B) = P/p (cm2) 		 ...(12.1)
+
+where P is the column load in kN and p denotes the net allowable soil pressure in kN/cm2. In
+this development, self-weight of footing may not be considered. This involves only a small error
+in that, the weight of the concrete of footing is assumed here to be approximately equal to the
+weight of the earth displaced by it. Further, it is assumed here that the soil pressure under
+the footing is uniform. This is a reasonable assumption as discussed elsewhere.
+
+The individual spread footings can be of the following types (Fig. 12.1).
+

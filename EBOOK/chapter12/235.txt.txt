@@ -1,0 +1,56 @@
+INDIVIDUAL SPREAD FOOTINGS 		 213
+
+12.6. Selection of Type of Footings
+
+Footings of uniform depth (Type alpha), though commonly used in practice for reasons of ease
+in design and construction, are the costliest. These consume more concrete quantity (about
+25% to 45%) than that by sloped footings. This type is suitable only for small footings with
+overall depth being restricted to, say, 30 cm.
+
+For footings of intermediate size, sloped footings with slope starting from D/2 away from
+the edge of column (Type b), are quite suitable. This type is quite economical giving concrete
+and steel quantities quite reasonable in comparison with other types. This type is easy to
+design as well as to execute. This type is recommended for most individual footings en-
+countered in buildings with overall depth greater than 30 cm. The depth at the free end of
+footing may be kept at 15 cm, the speciﬁed minimum given by the Code. The depth (D) of this
+type of footing is kept the same as that for footings of uniform depth.
+
+For large-sized footings, sloped footings with the slope starting from the edge of column
+(Type c) or stepped footings (Type d) are preferred to other types, as these give the least
+quantities for concrete and steel consumption. The stepped footings give the least steel
+quantity, while the sloped footings (Type c), give the least concrete quantity. The depth for
+these types of footings works out to be about 20% more than that for footings of uniform depth.
+Stepped footings are a little cumbersome in construction, while the sloped footings are easier
+in execution, albeit a little more labour-intensive than the footings of uniform depth.
+
+12.7. Examples -
+Example 12.1. Square footing of Uniform Depth (Type a).
+Given. P = 1000 kN fck = 15 N/mm2 
+p = 0.02 kN/cm2  fy = 415 N/mm2
+a = 40 cm
+
+Required. Design the footing
+Solution. (i) Dimensions of footing
+Equation (12.1) gives,
+
+1000
+2 _ __ = 2
+A - 0.02 50,000 cm
+A = 223.6 cm
+Provided 225 x 225 base and
+, _ 1000 _ 2
+p —- —-—-——225 x 225 - 0.01975 kN/cm
+Table 12.1 gives for p = 0.02, and steel Fe 415,
+D 1 225
+A -405 or D— 45 —50cm.
+
+(ii) Check for perimeter shear
+
+Chart 12.1 gives for,
+k _ 06741—5— x 1.0
+— 0.01975
+
+ 
+
+= 13.14 _
+

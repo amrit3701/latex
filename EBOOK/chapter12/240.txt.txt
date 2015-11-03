@@ -1,0 +1,63 @@
+218 				A MANUAL OF LIMIT STATE DESIGN
+
+Equation (12.20) gives,
+
+y =[ (215 - 40)/2 - 4.00] = 83.5 cm > 66cm OK
+
+12.8. Conclusion
+
+Provisions of the Code on footings have been applied to individual spread footings, square
+, or rectangular in plan with depth uniform, varying or stepped. Design aids are given for ﬁxing
+depth of footings and checking it in respect of requirements of safety in perimeter shear.
+Procedure for design of footings for bending moment, shear and development length of tension
+steel bars is given in detail and examples are given to illustrate it. For a large-sized rectangular
+footing, a footing beam in the long direction will be more economical than the traditional
+isolated footing. Also, for large square footings, two cross footing beams with a uniform base
+slab will make for economy.
+
+Table 12.1. Depth of Footings for Types (a) and (b) (Fig. 12.1),
+[Values for D/A]
+
+
+' p (kN/cmz) , Type of reinforcing steel
+' Fe 250 ' Fe 415, Fe 500
+
+0.005 __1_ i
+
+. 8.0 7.0
+
+0.010 _1_ __1_
+
+6.0 5.5
+
+0.015 _1_ _1_
+
+5.5 5.0
+
+0.020 _1_ _1_
+
+5.0 , 4.5
+
+- 0.025 _ _1_ _L
+
+4.5 4.0
+
+0.030 _1_ __1_
+
+4.0 3.5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notes :
+1. ‘A’ is the average of sides of a rectangular footing.
+2. For sloped (type c) and stepped (type d) footings, increased depth given by
+the above table by 20%.
+

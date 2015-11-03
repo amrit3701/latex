@@ -1,0 +1,63 @@
+INDIVIDUAL SPREAD FOOTINGS	 209
+
+'alpha' = 1.0 for footings of Types (a), (b) and (d) (Fig. 12.1), while alpha < 1.0 for sloped footings of
+Type (c). The overall depth of footing is given by,
+
+D=d+c+¢ ...(12.8)
+
+Here, d is regarded as an average value for either steel layer. For sloped footings (Fig. 12.2
+b), simple geometry gives,
+
+
+a d
+a=i'_':2_"1+(D‘Dm) L A A]_<c+¢> ...<12.9>
+d d d ' 1 g d. ' A
+
+
+Chart 12.1 is developed on the basis of equations (12.5) and (12.7) and it applies to both
+uniformly deep and sloped square footings. It can also be used for rectangular footings with
+rectangular columns by using average values of a and A, provided an equal overhang is left
+on all sides of column, which requires,
+
+(b-a) = (B-A) ...(12.9a)
+Solution of numerical examples gives an idea that it is possible to develop thumb rules for
+ﬁxing depth of footings. It may be noted that there is no dire need of exactness in ﬁxing the
+value of depth of footing, only it should be more than adequate for the actions imposed on a
+footing. Table 12.1, based on equation (12.5), is developed for footings of Types (a) and (b) (Fig.
+
+12.1). It gives values of D/A for various practicable values of p. It is seen that, for safety in beam
+shear, these values are to be increased by 10% in case of steel types Fe 415 and Fe 500. For
+sloped and stepped footings (Types c and d), the depth of footing given by Table 12.1 may be
+increased by 20%. The depth at the free end of a footing may be restricted to 15 cm, which is
+the minimum prescribed by the Code for spread footings.
+
+12.4. Design for Moment and Beam Shear
+
+Section 1-1 in Fig. 12.3 is the critical Section for bending moment. The bending moment
+for full width B is given by,
+
+
+. __ 2 _
+M1_1=p  am) ...(12.10)
+a
+
+
+For footings 0f uniform depth and also stepped footings, the concrete compression zone is
+rectangular and charts of Chapter 2 are used to calculate the required area of steel. But for
+slopped footings, the concrete compression zone is of a trapezoidal shape and Chart 4.1 of
+Chapter 4 is to be used for ﬁnding steel area. Chart 4.1 can be used for both uniformly deep
+(gamma = O) and sloped footings. The calculated steel area should not be less than the spec1ﬁed
+minimum steel area (Table 11.4 of Chapter 11) for spread footings which may beregarded as
+slabs for this purpose. 
+
+Section 2-2 in Fig. 12.3 is the critical section for beam shear. The shear force and moment
+at section 2-2 for the full width of footing is given by,
+
+
+‘ (A — a) ,
+32‘2zp'B[ 2 ’d](kN) V ...(12.11a)
+
+...(12.11b)
+
+M2-2=p .ﬂi‘ig—“l—dTmNcm)
+

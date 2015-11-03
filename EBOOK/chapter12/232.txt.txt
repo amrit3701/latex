@@ -1,0 +1,27 @@
+210 A MANUAL OF LIMIT STATE DESIGN
+
+ 
+(a) Plan of sloped footing
+Lb) section of sloped footing
+Fig. 123. Critical sections for bending moment and beam shear in footings.
+
+Beam shear. stress Tv for footings of uniform depth and stepped footings is given by,
+
+Vu 1.5 X 2  2
+“C” = --- = —--—-—-—-——
+
+where, b = B for uniformly deep footings,
+= a, for stepped fOOtings (Fig. 12.1 d)
+
+...(12.1_2)
+
+For sloped footings, clause 40.1.1 of the Code gives, (-ve sign applies here),
+
+Vu Mu ,
+TU = bid! - W ' tan B . 
+
+ 
+
+where b’, d’ are shown in Fig. 12.3 (a) and  12.3 (b) and Mu is the ultimate moment at
+section 2-2. ' . - ‘ .
+

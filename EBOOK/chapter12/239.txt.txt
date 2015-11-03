@@ -1,0 +1,64 @@
+INDIVIDUAL SPREAD FOOTINGS				 217
+
+Equation (12.14 c) gives,
+
+b’=b+2(B-b)/(A-a)xd=65+2x175/175x54.8=169.6cm
+
+Equation (12.11 b) gives,
+M2 - 2 = 0.0198 x 235(87.5 — 54.8)2/2 = 2488 kN cm
+Equation (12.13) gives,
+Tv = 1.5 x 152/169.6 x 26.6 - 1.5 x 2488
+U ‘ 169.6 x 26.6 ‘ 169.6 x (26.6)2
+= 0.050 - 0.016 = 0.034 kN/cm2
+
+For ' 100As __ 100 x 6.65
+b’d’ " 100 x 26.6
+
+Table 19 gives to = 0.035 kN/cm2
+
+With k = 1.0, 1.. = I. = 0.035 kN/cm2 > Tv = 0.034 kN/cm2,
+D = 60 cm is safe in beam shear.
+(v) Check on development length of footing bars
+Table (11.3) gives for 0 12 bars,
+Ld (tension) = 55 x 1.2 = 66 cm,
+
+x 0.514
+
+= 0.25,
+
+Chart 12.1. Effective Depth ((1) of Square Individual Footings for Safety in perimeter shear
+
+ 
+
+Notes
+2 2 2 1. fck in N/mm2
+1-9- —2 9- i—g- 2.pinkN/cm2 '
+A A A A 3. For rectangular column a x b.
+k = a d d 2 r I Assume a = M as an approximation
+_ _ + _ 2
+HA) [A] [A] J Provided a/b S 0.50
+
+4. Chart can be used for squarish rectangular footings
+k = 0.067% cm provided an equal overhang is left beyond faces of
+
+column withA = gag—Bl
+
+For equal overhang (b — a) = (B - A)
+5. a = 1.0 for types (a), (b) and (d) (Fig. 12.1)
+6, at < 1.0 for types (c). Use equation (12.9)
+1_2_i
+Dm (D—Dm) A A n+4»
+7. a. = -— + . -
+d 1 _ g d
+A.
+
+0-20
+0-25
+- 0-30
+
+10 15 20 25 ‘30 35 40 1.5 5 55 85 95 100
+
+k—>
+
+ 
+

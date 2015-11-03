@@ -1,0 +1,65 @@
+216 					A MANUAL OF LIMIT STATE DESIGN
+
+Chart 12.1 gives for,
+
+k = 0.067715 x 0.74/0.0198=9.70
+
+0.0198 ’ g 9'70
+g. ..4:13+60>/2 -52-
+A (average value) - (215 + 285)/2 ‘- 225 —_ 0.22
+
+155-: 0.195 or d  0.195 x 225 = 43.9 cm
+
+k
+
+D = 43.9 + 4.0 +1.2: 49.1 cm
+
+D = 60 cm is 'safe in perimeter» shear.
+(iii) Design for moment
+Equation (12.10) gives,
+
+M1 — 1 = 0.0198 x 235 (215 - 40)2/8 = 17812 kN cm
+With trapezoidal compression zone, Chart 4.1 gives for,
+b = 60 cm, d = 54.8 cm,
+Q- Dm) = 45
+(B — b)/2 87.5
+54.8
+7 2 980:2 0.514 = 1‘8
+__ 1.5 x 17812
+“ 1.5 x 60 x (54.8)2
+u=011
+A“ = $11  X, 54.8 x 15
+0.87 x 415
+is: 3 1595
+B 2.85
+
+tan [3 = = 0.514
+
+= 0.099
+
+= 15.03 cm2
+= 6.40 cm2/m
+
+Minimum steel for average value of D = 60; 15 = 37.5 cm regarding footings as slabs,
+
+'Ast (min) = 0.12 x 37.5 = 4.20 cmZ/m
+
+Provide 0) 12/17 c/c bothways, area = 6.65 cmZ/m.
+(iv) Design for beam shear
+Equation (12.11 a) gives,
+
+82 .5 2 = 0.0198 x 235[ 2152‘ 40 — 54.8] = 152 kN
+
+Equation (12.14 a) gives,
+
+7215-2)< 215
+
+v E :10 54.8]
+D’ = 15 + (60 -— 15) 40
+(1%)
+
+= 15 + 16.8 = 31.8 cm
+Equation ( 12.14 b) gives,
+
+(1’ = 31.8 - 5.2 = 26.6 cm
+

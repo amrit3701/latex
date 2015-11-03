@@ -1,0 +1,64 @@
+214 			A MANUAL OF LIMIT STATE DESIGN
+
+4/A
+O
+
+= 0.18
+
+O [O
+C I N
+01
+
+MD. M9
+H
+00
+
+d = 0.18 x 225 = 40.5
+- Equation (12.8) gives with c = 4.0cm, ¢ = 1.2 cm, '
+D = 40.5 + 4.0 + 1.2 = 45.7 cm
+D = 50 cm is safe.
+(iii) Design for moment
+Equation (12.10) gives, .
+M1 - 1 = 0.01975 x 225(225 - 40)2/8 = 19011 kN/cm
+With rectangular compression zone, Chart (2.2) gives for,
+d=50-.-4.0-—1.2=44.8cm
+1.5 x 19011
+*= 1.5 x 225 x (44.8)2 = 0042
+u = 0.0475
+
+_ 0.0475 x 225x 44.8 x 15
+
+.. = 2
+Ast 0.87 X 415 19.89 cm
+
+& __  __ v 2
+A ———-2.25 - 8.84 cm /m
+
+o 12/12 do both ways provided giving an area = 9.42 cm2/m
+Table 11.4 gives the minimum tension steel area in footings taken as slabs,
+Astl(min) = 0.12 x 50 =. 6.0 cm2/m ' '
+which is exceeded by that provided.
+(iv) Design for beam shear
+Equation (12.11 a) gives,
+
+32 .. 2 = 0.01975 x 225[ 2252‘ 4° - 44.8] = 212 kN
+
+Equation (12.12) gives
+' . I __ 1.5 x 212
+" ‘ 225 x 44.8
+
+For _ 100As z 100 x 9.42
+bd 100 x 44.8
+
+Table 19 of the Code gives,
+I 1.; = 0.32 N/mm2 1
+With k = 1.0, equation (12.16) gives,
+1., = to = 0.032 kN/cm2
+With Ty = Ta, D = 50 cm is safe.
+(0) Check on development length of footing bars
+I Table (11.13) gives, for footings bars of 0 12 (Fe 415),
+
+= 0.032 kN/cm2
+
+= 0.21,
+

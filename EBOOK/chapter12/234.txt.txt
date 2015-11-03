@@ -1,0 +1,51 @@
+212 	 A MANUAL OF LIMIT STATE DESIGN
+
+ 
+I'LI
+r
+510 ed Uniformly.
+fooEing] [deep fOOImQ
+""‘L" “““ “a T
+'1 I
+I . i ‘
+v l
+Lab—WLd—‘l I 4
+A =.
+
+ 
+
+(a) Section of uniformly deep or sloped footing.
+(b) Section of stepped footing
+Fig. 12.4. Development Length for Footing Bars.
+
+12.5. Development Length of Bars
+
+Column dowel bars should extend into footings for a distance equal to the development
+length (Table 11.3 of Chapter 11) of column bars in compression (or in tension when moment
+in column is large). With the clause 26.2.2.2 of the Code, column bars can always be adequately
+anchored in the footing, whatever be the depth of footing. '
+
+For development length of footing bars, there should be adequate bar length available (y),
+either straight or bent-up or both measured from the face of column. Referring to Fig. 12.4 (a),
+for sloped or uniformly deep footings,
+
+y = [ﬁg—a) - 4.0] > La (tension) ...(12.20)
+
+where 4.0 cm is taken as clear cover over ends of bars in footings. If equation (12.20) is not
+ satisﬁed, there are two ways to tackle this problem :
+
+(i) bend bars up, as shown dotted in Fig. 12.4 (a)
+
+(ii) choose smaller diameter for bars
+
+For stepped footings Fig. 12.4 (b), the available straight length of bars beyond the critical
+section 1’ - 1’ is,
+
+
+
+Normally, full steel area required at section 1 — 1 is provided throughout and the steel strength
+sigma(s) at section 1’ - 1’ may be less than its maximum value of 0.87 fy. The value of Ld (tension)
+should be calculated for the appropriate value of sigma(s).
+
+‘y' = [M — 4.0] > La (tension) ...( 12.21)
+

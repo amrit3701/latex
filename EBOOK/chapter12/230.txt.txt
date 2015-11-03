@@ -1,0 +1,42 @@
+208 A MANUAL OF LIMITSTATE DESIGN
+
+T
+.JL.
+
+(a) Critical perimeter 1-1-1-1 in plan for perimeter shear
+(b) Section of sloped footing showing reduced depth d for perimeter shear
+Fig. 12.2. Perimeter shear for square footing.
+
+Ta = ks .Tc = ks . 0.25sqrt(fck) ...(12.4)
+
+where, fck is to be put in N/mm2.
+
+ks = 1.0 for square columns and also for rectangular with aspect ratio (b/a)<= 2.0. For the
+condition Tv = Ta, equation (12.2) and (12.4) give,
+
+[ng -2[:€:—)(%]-[%)2 
+
+ 
+
+ 
+
+...(12.5)
+= k (say)
+.2 i + i 2 P
+A A A
+
+For a square sloped footing with a square column of side a (Fig. 12.2 b),
+
+_ Vu __ 1.5 Sp
+1‘” " b0 . d” ’ 4(a + d)d” “AIM”
+Assuming d” = a.d, the condition Tv = Ta gives,
+2 2
+* lit-9') AHA-(i) l
+A A A A = 0.067%? ...(12.7)
+
+ 
+
+.oc = k (say)
+
+it?) (it) (ii-ii ”
+

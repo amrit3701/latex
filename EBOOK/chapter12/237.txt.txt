@@ -1,0 +1,47 @@
+INDIVIDUAL SPREAD FOOTINGS 			215
+
+Ld (tension) = 55¢ = 55 x 1.2 = 66 cm.
+Equation (12.20) gives, 
+y a [93553—491 - 4.0] = 88.5.cm
+With y > Ld (tension), footing bars will develop full strength at the critical section.
+It may be noted that with D = 50 cm, this type of footing of uniform depth is not economical.
+Footing of Types (b) and (c) with sloping depth would be more economical than the present 
+design. 
+Example 12.2. Rectangular sloped footing of Type (c). 
+Given. Same as in Ex. 12.1 with
+a = 40 cm
+b = 60 cm 
+and the footing is to have equal overhangs on all sides of column.
+Required. Design the footing
+Solution. (i) Dimensions of footing
+Equation (12.1) gives,
+
+AXB=1000/0.02= 50,000 cm2
+The equal overhang condition, equation (12.9 a) gives,
+b-a=B-A=20cm
+The solution of these two equations gives,
+A = 214 cm, B = 234 cm
+Practical designer may choose A = 215 cm and B: 235 cm
+
+_ __1_9(_)_Q_ _ 2
+p — 215 x 235 - 0.0198 kN/cm
+Table 12.1 gives for p = 0.02 and steel Fe 415,
+D _ i
+A — 4.5 x 1.20
+or, D = 2:5 +425 X120 = 60 cm
+Provide D = 60 cm and Dm = 15 cm .
+
+(ii) Check for perimeter shear
+Equation (12.8) gives, with c = 4.0 cm, (I) = 1.2 cm,
+d = 60 - (4.0 + 1.2) = 54.8 cm
+
+ 
+
+Equation (12.9) gives,
+[1_ _4_0_ _ 54.8]-
+_ 15 '+(60—15) 215 215 _’ (4.0+ Lg.)
+0""5413 54.8 ' 1__ 30 54.8
+215
+
+= Egg-(15 + 30.91 - 5.2) = 0.74 I
+

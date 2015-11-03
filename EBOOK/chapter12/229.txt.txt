@@ -1,0 +1,108 @@
+INDIVIDUAL SPREAD FOOTINGS								207
+
+
+
+
+P(kN) P(kN)
+a—l 2 a - g
+1 2J2 P—‘t
+L I Dm _
+ptkN/cm2 lllltllll‘l‘ ‘ilillili’lll l
+m—A—a A..th -4
+p cm
+(a) y (b)
+Uniformly deep footing Sloped footing (slope starting from D/2 away from the edge of column)
+
+P(kN).i
+I
+
+P(kN)
+
+ 
+
+ 
+
+ 
+
+ 
+
+H—— a, J
+l
+
+admin}. w '   LEE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I
+O.)
+--—-——N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.L v _  A25"   Dm
+p“(N/cmzl filfffflt D illit‘fffhlilllif“
+T— m : : Ki3(I<N/cm"'l
+le A ﬁ-l H ' ‘ ~
+I : ﬁ"
+2'! 1’ .
+(C) (m
+Sloped footing (slope starting from the edge of column) Stepped footing
+
+Fig. 12.1. Types of individual spread footing.
+
+
+
+
+
+With the area of footing known from equation (12.1), dimensions A and B are easily
+ﬁnalised. The only dimension of the footing which remains to be known is the depth (D) of the
+footing. A common way of design of footings is to assume D, rather generously, with a view to
+reduce steel area as well as to help provide ﬁxity to the column base, in order to be close to the
+assumptions made in the frame analysis of superstructure.
+
+12.3. Design for Perimeter Shear
+
+Depth of footing is ﬁxed from the consideration of perimeter shear stress which depends
+on concrete quality, being independent of type of reinforcing steel. For a square footing of
+uniform depth with a square column of side a (Fig. 12.2 a), perimeter shear stress Tu is given
+by
+
+ 
+
+_ Vu _ 1.5 Sp
+Tv-bo  -  
+where, Sp = P -p . (a + d)2 r ...(12.3)
+
+and b0 = perimeter of the critical closed section. 
+The allowable perimeter shear stress Ta (clause 31.6.3 of the Code) is given by,
+
