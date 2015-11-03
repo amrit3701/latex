@@ -253,4 +253,20 @@ try:
  _st_.inline(36, latex(tau_c))
 except:
  _st_.goboom(395)
+try:
+ _st_.inline(37, latex(tau_a))
+except:
+ _st_.goboom(397)
+try:
+ _st_.inline(38, latex(tau_c))
+except:
+ _st_.goboom(397)
+try:
+ _st_.inline(39, latex(tau_v))
+except:
+ _st_.goboom(398)
+try:
+ _st_.inline(40, latex(tau_a))
+except:
+ _st_.goboom(398)
 _st_.endofdoc()

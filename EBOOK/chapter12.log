@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.26)  3 NOV 2015 15:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.26)  3 NOV 2015 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,7 +435,42 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-) (./chapter12.aux)
+) (./chapter12.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.13 \newlabel{\textbf  {Table 12.1}}{{1.7}{13}}
+                                                
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \newlabel{\textbf  {Table 12.1}}{{1.7}{13}}
+                                                
+? 
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.13 \newlabel{\textbf  {Table 12.1}}{{1.7}{13}}
+                                                
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.13 \newlabel{\textbf  {Table 12.1}}{{1.7}{13}}
+                                                
+? 
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.13 \newlabel{\textbf  {Table 12.1}}{{1.7}{13}}
+                                                
+? 
+)
 \openout1 = `chapter12.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -450,6 +485,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -546,20 +582,20 @@ e
 \openout4 = `chapter12.sagetex.sage'.
 
 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+] [2
+
+]
 Chapter 1.
-<sage-plots-for-chapter12.tex/plot-0.pdf, id=1, 456.36758pt x 202.49681pt>
+<sage-plots-for-chapter12.tex/plot-0.pdf, id=11, 456.36758pt x 202.49681pt>
 File: sage-plots-for-chapter12.tex/plot-0.pdf Graphic file (type pdf)
 
 <use sage-plots-for-chapter12.tex/plot-0.pdf>
 Package pdftex.def Info: sage-plots-for-chapter12.tex/plot-0.pdf used on input 
 line 35.
 (pdftex.def)             Requested size: 456.36646pt x 202.4963pt.
- [1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./sage-plots-for-chapter12
-.tex/plot-0.pdf>] [2] [3]
-[4]
+ [3 <./sage-plots-for-chapter12.tex/plot-0.pdf>] [4] [5] [6]
 Underfull \hbox (badness 10000) in paragraph at lines 164--167
 
  []
@@ -580,7 +616,7 @@ l.185 ...area should not be less than the spec1ﬁ
                                                   ed minimum steel area (Tab...
 
 ? 
-[5] [6]
+[7] [8]
 
 ! Package inputenc Error: Unicode char \u8:ﬁ not set up for use with LaTeX.
 
@@ -591,7 +627,7 @@ Type  H <return>  for immediate help.
 l.299 ...ss can be checked to be safe by using ﬁ
                                                   rst principles.
 ? 
-[7] [8]
+[9] [10]
 Underfull \hbox (badness 10000) in paragraph at lines 333--334
 
  []
@@ -601,44 +637,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
-[9]
-Runaway argument?
-{equation (12.16) gives,$$ $$\sage {tau_a}=\sage {tau_c}=0.032kN/cm^2\ETC.
-! Paragraph ended before \text@ was complete.
-<to be read again> 
-                   \par 
-l.399 
-      
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.399 
-      
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.399 
-      
-? 
-! Display math should end with $$.
-<to be read again> 
-                   \@@par 
-l.399 
-      
-? 
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.399 
-      
-? 
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 408--409
 
  []
 
+[12]
 
 ! Package inputenc Error: Unicode char \u8:ﬁ not set up for use with LaTeX.
 
@@ -646,37 +650,47 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.427 ...or stepped. Design aids are given for ﬁ
+l.428 ...or stepped. Design aids are given for ﬁ
                                                   xing depth of footings and...
 
 ? 
-[10]
 *********************************************************************
-[11] (./chapter12.aux) ) 
+[13] (./chapter12.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \protect 
+l.13 \newlabel{\textbf  {Table 12.1}}{{1.7}{13}}
+                                                
+? 
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4862 strings out of 493304
- 66790 string characters out of 6139871
- 148802 words of memory out of 5000000
- 8253 multiletter control sequences out of 15000+600000
+ 4867 strings out of 493304
+ 66852 string characters out of 6139871
+ 148898 words of memory out of 5000000
+ 8258 multiletter control sequences out of 15000+600000
  6878 words of font info for 25 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,6n,43p,711b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy7.pfb>
-Output written on chapter12.pdf (11 pages, 171931 bytes).
+ 38i,12n,43p,711b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+>
+Output written on chapter12.pdf (13 pages, 176434 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 124 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
