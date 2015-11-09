@@ -7,7 +7,7 @@
 \usepackage{amsmath}
 \title{Individual Spread Footing}
 \author{Manpreet Kaur, Amritpal Singh}
-%---------------main document----------------------------%
+%---------------------------main document-------------------------------%
 \begin{document}
 \maketitle
 \tableofcontents
@@ -99,7 +99,7 @@ Assuming $d$ = $\alpha.d$ , the condition $T_v=T_a$  gives,
          \sage{z1}=\sage{z2}=\sage{k}                                   
  \end{equation}  
 
-%-----------------page 4------------%
+
 
 $\alpha = 1.0$ for footings of Types ($a$), ($b$) and ($d$) (Fig. 12.1), while $\alpha$ < 1.0 for sloped footings of
 Type ($c$). The overall depth of footing is given by,
@@ -167,6 +167,7 @@ Section 2-2 in Fig. 12.3 is the critical section for beam shear. The shear force
 \begin{equation}
         M_{2-2}=\sage{z2}(kNcm)
 \end{equation}
+
 
 
 \begin{sagesilent}
@@ -303,7 +304,7 @@ For footings of intermediate size, sloped footings with slope starting from $\fr
 For large-sized footings, sloped footings with the slope starting from the edge of column
 (Type $c$) or stepped footings (Type $d$) are preferred to other types, as these give the least quantities for concrete and steel consumption. The stepped footings give the least steel quantity, while the sloped footings (Type $c$), give the least concrete quantity. The depth for these types of footings works out to be about 20\% more than that for footings of uniform depth. Stepped footings are a little cumbersome in construction, while the sloped footings are easier in execution, albeit a little more labour-intensive than the footings of uniform depth.
 
-%-------------------------------example first----------------------------%
+%---------------------------first example-------------------------------%
 
 \section{Examples}
 \textbf{ Example 12.1. Square footing of Uniform Depth (Type a).}\\
@@ -372,7 +373,7 @@ $$y=\bigg[\frac{(225-40)}{2}-4.0\bigg]=88.5cm$$
 With $y > L_d$ (tension), footing bars will develop full strength at the critical section. It may be noted that with $D$ = 50 cm, this type of footing of uniform depth is not economical. Footing of Types ($b$) and ($c$) with sloping depth would be more economical than the present design.\\
 \end{enumerate} 
 
-%-------------------------------example second----------------------------%
+%---------------------------second example-------------------------------%
 
 \textbf{ Example 12.2. Rectangular sloped footing of Type ($c$).}\\
 \textbf{Given:}
@@ -466,8 +467,7 @@ For equal overhang $(b-a)=(B-A)$
 \item $\alpha=\frac{D_m}{d}+\frac{D-D_m}{d}.\frac{\left(1-\frac{a}{A}-\frac{d}{A}\right)}{\left(1-\frac{a}{A}\right)}-\frac{(c+\phi)}{d}$
 
 \end{enumerate}
-
-%-------------------------------sage graph----------------------------%
+%---------------------------sage graph-------------------------------%
 
  \begin{sagesilent}                                                      
         var('a,A,d,k')                                                  
@@ -494,6 +494,8 @@ For equal overhang $(b-a)=(B-A)$
 \section{Conclusion}
 Provisions of the Code on footings have been applied to individual spread footings, square, or rectangular in plan with depth uniform, varying or stepped. Design aids are given for ﬁxing depth of footings and checking it in respect of requirements of safety in perimeter shear.Procedure for design of footings for bending moment, shear and development length of tension steel bars is given in detail and examples are given to illustrate it. For a large-sized rectangular footing, a footing beam in the long direction will be more economical than the traditional isolated footing. Also, for large square footings, two cross footing beams with a uniform base slab will make for economy.
 
+%---------------------------table -------------------------------%
+
 \begin{table}
 \centering
 \label{Table 12.1}
@@ -518,4 +520,5 @@ Provisions of the Code on footings have been applied to individual spread footin
 the above table by 20\%}.
 \end{enumerate}
 \end{document}   
+
 
